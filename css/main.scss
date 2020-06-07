@@ -25,6 +25,5 @@ $subdued-border:   rgba($bg-color-darker, 0.5);
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-  "base",
-  "syntax-highlighting"
+  "base"
 ;
