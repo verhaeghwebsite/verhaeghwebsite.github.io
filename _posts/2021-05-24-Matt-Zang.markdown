@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Zangkunsten van Matt"
+external-url:
+categories: Overig
+visible: 1
+---
+
+Matt Verhaegh heeft met een individueel zangproject meegedaan, georganiseerd door Jennemieke Snijders (Tinksel.nl).
+Het was leuk, moeizaam maar ook leerzaam: Zingen is voor (bijna) iedereen mogelijk, maar het is een kwestie van oefenen en toewijding!
+
+<p class="aligncenter">
+<video width="70%" preload='metadata' controls >
+<source src="/assets/overig/zang_matt.webm"/>
+</video>
+</p>
