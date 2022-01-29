@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Oma 95 jaar"
+external-url:
+categories: Overig
+visible: 1
+---
+
+Fotopresentatie getoond bij de 95e verjaardag van Oma Til Verhaegh in de Wieksjlaag te Beringe.
+Filmpje is gemaakt door kleindochter Julia Verhaegh.
+
+<p class="aligncenter">
+<video width="70%" preload='metadata' controls >
+<source src="/assets/overig/oma_95_jaar Het_Dorp.webm" type="video/webm; codecs=vp9.0,opus"/>
+<source src="/assets/overig/oma 95_jaar_Het_Dorp.m4v" type="video/mp4; codecs=avc1.64001F,mp4a.40.2"/>
+</video>
+</p>
